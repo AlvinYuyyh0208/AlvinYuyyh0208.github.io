@@ -10,6 +10,7 @@ This anxiety_attack_dataset measures age, gender, occupation, lifestyles like sl
 Milestone2:
 
 data source: https://www.kaggle.com/datasets/ak0212/anxiety-and-depression-mental-health-factors
+
 The html file of milestone2 is called index.html, I created milestone2 in the same file as milestone1, it's below milestone1, so you should scroll down a little bit and you will see.
 
 This dataset is similar to the one in milestone1, it contains related to anxiety, depression, and mental health influences. It includes demographic details, lifestyle habits, mental health indicators, medical history, coping mechanisms, and stress factors. Features Included: Demographics: Age, Gender, Education, Employment Status
